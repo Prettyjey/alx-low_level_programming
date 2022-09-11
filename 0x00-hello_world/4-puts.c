@@ -1,21 +1,12 @@
 #include <stdio.h>
 
-
-
 /**
-
- * main - Entry point
-
- *
-
- * Return: Always 0 (Success)
-
- */
-
+* main - print the string in the put function
+*
+* Description: using the main function
+* Return: Always 0 (Success)
+*/
 int main(void)
-
 {
-
-    return (0);
-
+	return (0);
 }
